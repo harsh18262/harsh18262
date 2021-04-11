@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=harsh18262&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **harsh18262/harsh18262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
