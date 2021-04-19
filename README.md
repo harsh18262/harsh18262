@@ -2,7 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harsh18262&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![N|Solid](http://www.hackthebox.eu/badge/image/322519)](https://www.hackthebox.eu/profile/322519) [![N|Solid](https://tryhackme-badges.s3.amazonaws.com/harsh18262.png)](https://tryhackme.com/p/harsh18262)
+[![N|Solid](http://www.hackthebox.eu/badge/image/322519)](https://www.hackthebox.eu/profile/322519) 
+[![N|Solid](https://tryhackme-badges.s3.amazonaws.com/harsh18262.png)](https://tryhackme.com/p/harsh18262)
 
 <!--
 **harsh18262/harsh18262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
