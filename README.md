@@ -10,7 +10,7 @@ I am Harshwardhan Mehrotra, currently pursuing my bachelor's degree majoring in 
 ## Github Analytics
 <div>
 
-![Harshwardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh18262&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry)
+![Harshwardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh18262&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh18262&layout=compact&theme=blueberry)
 
 ## Cyber Security related badges
 [![N|Solid](http://www.hackthebox.eu/badge/image/322519)](https://www.hackthebox.eu/profile/322519) 
