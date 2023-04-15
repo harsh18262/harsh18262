@@ -7,7 +7,7 @@
 ## A Little About Me
 I am Harshwardhan Mehrotra, currently pursuing my bachelor's degree majoring in computer science from Maharashtra Institute of Art, Design and Technology,Pune . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
-Portfolio Website: [harshwardhan.tk](https://harshwardhan.tk)
+Portfolio Website: [harshwardhan.works](https://harshwardhan.works)
 
 BTW I use Arch  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png" height="35em"/>
 <h3 align="left">Languages and Tools:</h3>
