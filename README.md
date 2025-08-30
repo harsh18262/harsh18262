@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+Architect+%7C+Infrastructure+Automation;Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Infrastructure+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+Architect+%7C+SRE;Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS+%7C+CI%2FCD;Building+Scalable+Infrastructure+at+Scale" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshwardhan.works-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsh18262.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harsh18262.github.io-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsh18262.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-mehrotra)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh18262)
 
@@ -268,7 +268,7 @@ $ echo "contact_info" | base64 -d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshwardhan--mehrotra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-mehrotra)
 [![Twitter](https://img.shields.io/badge/Twitter-@harsh18262-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh18262)
 [![Instagram](https://img.shields.io/badge/Instagram-@__.__harshwardhan__.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._harshwardhan_._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshwardhan.works-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsh18262.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harsh18262.github.io-90EE90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harsh18262.github.io/)
 
 </div>
 
